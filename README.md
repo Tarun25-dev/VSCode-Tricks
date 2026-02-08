@@ -1,6 +1,6 @@
 ## 🔥 Goal of the Repository
 
-A curated collection of practical VS Code tips, shortcuts, extensions, and productivity tricks designed to help developers code faster, smarter, and more efficiently.
+A collection of practical VS Code tips, shortcuts, extensions, and productivity tricks designed to help developers code faster, smarter, and more efficiently.
 
 This repository is perfect for:
 

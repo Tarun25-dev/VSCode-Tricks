@@ -1,12 +1,10 @@
-## 🔥Goal of the repo:
-A collection of practical VS Code tips, shortcuts, extensions, and productivity tricks for developers.
+## 🔥 Goal of the Repository
 
-This is perfect for:
+A curated collection of practical VS Code tips, shortcuts, extensions, and productivity tricks designed to help developers code faster, smarter, and more efficiently.
 
-students
+This repository is perfect for:
 
-freshers
-
-daily dev use
-
-resume & GitHub profile
+- 🎓 Students learning VS Code and modern development workflows
+- 🚀 Freshers preparing for interviews and improving daily coding habits
+- 💻 Developers looking to boost everyday productivity
+- 📌 A strong GitHub & resume project to showcase practical knowledge

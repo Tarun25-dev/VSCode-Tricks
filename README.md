@@ -1,3 +1,8 @@
+## 🧠 What is VS Code?
+
+Visual Studio Code (VS Code) is a free, open-source, lightweight code editor developed by Microsoft.  
+It is used to write, edit, debug, and run code for many programming languages with the help of extensions.
+
 ## 🔥 Goal of the Repository
 
 A collection of practical VS Code tips, shortcuts, extensions, and productivity tricks designed to help developers code faster, smarter, and more efficiently.

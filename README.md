@@ -19,3 +19,5 @@ This repository is perfect for:
 - [⌨️ Keyboard Shortcuts](docs/shortcuts.md)
 - [🧩 Useful Extensions](docs/extensions.md)
 - [⚡ Productivity Tricks](docs/productivity.md)
+- [💡 Debugging](docs/debugging.md)
+- [📌 Settings](docs/settings.md)

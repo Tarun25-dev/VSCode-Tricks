@@ -21,3 +21,7 @@ This repository is perfect for:
 - [⚡ Productivity Tricks](docs/productivity.md)
 - [💡 Debugging](docs/debugging.md)
 - [📌 Settings](docs/settings.md)
+
+## Go to the official website for downdload
+
+- [👉 Link](https://code.visualstudio.com/)

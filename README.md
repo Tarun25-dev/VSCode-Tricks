@@ -24,4 +24,4 @@ This repository is perfect for:
 
 ## Go to the official website for downdload
 
-- [👉 Link](https://code.visualstudio.com/)
+- 👉 https://code.visualstudio.com/
